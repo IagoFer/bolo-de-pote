@@ -43,7 +43,7 @@ export default function Home() {
               BOLO<span className="text-accent">POTE</span>
             </h2>
             <p className="text-muted-foreground text-sm max-w-xs">
-              Levando doçura e qualidade premium para o seu dia a dia desde 2024.
+              Levando doçura e qualidade premium para o seu dia a dia desde 2025.
             </p>
           </div>
           <div className="space-y-4">
@@ -57,7 +57,7 @@ export default function Home() {
           <div className="space-y-4">
             <h4 className="font-bold text-lg">Localização</h4>
             <p className="text-muted-foreground text-sm">
-              São Paulo, SP - Brasil<br />
+              Fortaleza, CE - Brasil<br />
               Entregas em toda região metropolitana.
             </p>
           </div>
